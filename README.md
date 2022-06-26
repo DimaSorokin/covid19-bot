@@ -9,7 +9,8 @@ Future plans:
 1. Implement application deployments in docker
 2. Storing data in a database
 3. Caching implementation
-4. CI/CD
+4. Tests
+5. CI/CD
 
 ### Stack:
 - Go 1.16
